@@ -9,4 +9,4 @@ Aby dodać pliki do repozytorium, przejdź do folderu z projektem i wpisz "git a
 
 Aby wprowadzić zmiany do głównego drzewa wpisz po kolei "git commit" i "git push".
 
-
+Jeśli jakiś plik zostanie zmieniony, trzeba go dodać do listy za pomocą "git add", jeśli nie zostanie dodany, "git commit" wykryje to i wyda komunikat o niezapisanych zmianach.
