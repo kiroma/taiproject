@@ -1,7 +1,23 @@
-body{
-	background-color: lightgray;
+body {
+	background: white;
+	color: black;
+	margin: 0;
+	font-family: Arial, sans-serif;
+	font-size: 100%;
+	/*Warning, do NOT change the syntaxes above, if you do, all other syntaxes WILL break, or need massive amount of tweaks that will break other things! This is the default!*/
 }
-Header{
-  
+#Header {
+  margin: 2%;
 }
-
+#Pytania {
+  margin: 2%;
+}
+#footer {
+  background: darkgray;
+  color: lightgray;
+  clear: both;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  font-size: auto;
+}
